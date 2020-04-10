@@ -1,0 +1,53 @@
+[
+    {
+        "name": "karson/mpesa-php-sdk",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/karson/mpesa-php-sdk.git",
+            "reference": "8be32ed5ab6c55abeb2863a9a0f9036f2e2ac15e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/karson/mpesa-php-sdk/zipball/8be32ed5ab6c55abeb2863a9a0f9036f2e2ac15e",
+            "reference": "8be32ed5ab6c55abeb2863a9a0f9036f2e2ac15e",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.1"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^7.0"
+        },
+        "time": "2020-02-06T20:03:24+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Karson\\MpesaPhpSdk\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Karson Adam",
+                "email": "karson@turbohost.co",
+                "role": "Developer"
+            }
+        ],
+        "homepage": "https://github.com/karson/mpesa-php-sdk",
+        "keywords": [
+            "karson",
+            "mpesa",
+            "mpesa-api",
+            "mpesa-php-sdk",
+            "mpesa-sdk",
+            "mpesaapi",
+            "payment-gateway"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+/* Override */
+.checkbox.pull-right { margin: 0; }
+.entry-header {
+  padding-bottom: 5px  !important ;
+}
+/* Component */
+.payment-title {
+      font-weight: 400;
+      font-size: 2em;
+
+  }
+  .payment-description {
+      white-space: pre;
+  }
+  .payment-btn {
+    background-color: red;
+    margin: 10px 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #fff;
+    font-size: 1.5em;
+}
+

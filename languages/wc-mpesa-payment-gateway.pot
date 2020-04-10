@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wc Mpesa Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-10 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.3.2"
+
+#: wc-mpesa-payment-gateway.php:75
+msgid "Allow to pay via MPESA"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:187
+msgid "API Key"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:182
+msgid "Customer Message"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:205
+msgid "Enable Test Environment"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:171
+msgid "Enable WooCommerce Mpesa Payment Gateway"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:169
+msgid "Enable/Disable"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://turbohost.co.mz/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://turbohost.co.mz/wo-mpesa-payment-gateway/"
+msgstr ""
+
+#. Author of the plugin
+msgid "karson <karson@turbohost.co.mz>"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:178
+msgid "M-PESA Payment Gateway"
+msgstr ""
+
+#. Description of the plugin
+msgid "MPESA Payment Gateway."
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:204
+msgid "no"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:184
+msgid "Pay via mpesa"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:314
+msgid "Payment failed"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:192
+msgid "Public Key"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:197
+msgid "Service Provider Code"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:202
+msgid "Test Mode"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:177
+msgid "This controls the title which the user sees during checkout"
+msgstr ""
+
+#: wc-mpesa-payment-gateway.php:175
+msgid "Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wc Mpesa Payment Gateway"
+msgstr ""

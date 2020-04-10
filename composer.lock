@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6678b98e3d295bf66c86c2f68baef875",
+    "packages": [
+        {
+            "name": "karson/mpesa-php-sdk",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/karson/mpesa-php-sdk.git",
+                "reference": "8be32ed5ab6c55abeb2863a9a0f9036f2e2ac15e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/karson/mpesa-php-sdk/zipball/8be32ed5ab6c55abeb2863a9a0f9036f2e2ac15e",
+                "reference": "8be32ed5ab6c55abeb2863a9a0f9036f2e2ac15e",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Karson\\MpesaPhpSdk\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Karson Adam",
+                    "email": "karson@turbohost.co",
+                    "role": "Developer"
+                }
+            ],
+            "homepage": "https://github.com/karson/mpesa-php-sdk",
+            "keywords": [
+                "karson",
+                "mpesa",
+                "mpesa-api",
+                "mpesa-php-sdk",
+                "mpesa-sdk",
+                "mpesaapi",
+                "payment-gateway"
+            ],
+            "time": "2020-02-06T20:03:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
